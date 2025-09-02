@@ -57,7 +57,7 @@ namespace TicTacToe
                     }
                     catch (FormatException)
                     {
-                        Console.WriteLine("This is not a right number, Try again: ");
+                        Console.Write("This is not a right number, Try again: ");
                     }
                 }
 
